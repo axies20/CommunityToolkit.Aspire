@@ -245,6 +245,9 @@
   <Folder Name="/examples/umami/">
     <Project Path="examples\umami\CommunityToolkit.Aspire.Hosting.Umami.AppHost\CommunityToolkit.Aspire.Hosting.Umami.AppHost.csproj" />
   </Folder>
+  <Folder Name="/examples/unsloth/">
+    <Project Path="examples/unsloth/CommunityToolkit.Aspire.Hosting.Unsloth.AppHost/CommunityToolkit.Aspire.Hosting.Unsloth.AppHost.csproj" />
+  </Folder>
   <Folder Name="/Solution Items/">
     <File Path="Directory.Build.props" />
     <File Path="Directory.Build.targets" />
@@ -314,6 +317,7 @@
     <Project Path="src/CommunityToolkit.Aspire.Hosting.StableDiffusionCpp/CommunityToolkit.Aspire.Hosting.StableDiffusionCpp.csproj" />
     <Project Path="src/CommunityToolkit.Aspire.Hosting.Stripe/CommunityToolkit.Aspire.Hosting.Stripe.csproj" />
     <Project Path="src/CommunityToolkit.Aspire.Hosting.SurrealDb/CommunityToolkit.Aspire.Hosting.SurrealDb.csproj" />
+    <Project Path="src/CommunityToolkit.Aspire.Hosting.Unsloth/CommunityToolkit.Aspire.Hosting.Unsloth.csproj" />
     <Project Path="src/CommunityToolkit.Aspire.Hosting.Zitadel/CommunityToolkit.Aspire.Hosting.Zitadel.csproj" />
     <Project Path="src/CommunityToolkit.Aspire.DuckDB.NET.Data/CommunityToolkit.Aspire.DuckDB.NET.Data.csproj" />
     <Project Path="src/CommunityToolkit.Aspire.KurrentDB/CommunityToolkit.Aspire.KurrentDB.csproj" />
@@ -395,6 +399,7 @@
     <Project Path="tests/CommunityToolkit.Aspire.Hosting.StableDiffusionCpp.Tests/CommunityToolkit.Aspire.Hosting.StableDiffusionCpp.Tests.csproj" />
     <Project Path="tests/CommunityToolkit.Aspire.Hosting.Stripe.Tests/CommunityToolkit.Aspire.Hosting.Stripe.Tests.csproj" />
     <Project Path="tests/CommunityToolkit.Aspire.Hosting.SurrealDb.Tests/CommunityToolkit.Aspire.Hosting.SurrealDb.Tests.csproj" />
+    <Project Path="tests/CommunityToolkit.Aspire.Hosting.Unsloth.Tests/CommunityToolkit.Aspire.Hosting.Unsloth.Tests.csproj" />
     <Project Path="tests/CommunityToolkit.Aspire.Hosting.Zitadel.Tests/CommunityToolkit.Aspire.Hosting.Zitadel.Tests.csproj" />
     <Project Path="tests/CommunityToolkit.Aspire.DuckDB.NET.Data.Tests/CommunityToolkit.Aspire.DuckDB.NET.Data.Tests.csproj" />
     <Project Path="tests/CommunityToolkit.Aspire.KurrentDB.Tests/CommunityToolkit.Aspire.KurrentDB.Tests.csproj" />

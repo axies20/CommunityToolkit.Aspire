@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <Compile Include="$(RepoRoot)src\CommunityToolkit.Aspire.Hosting.Unsloth\UnslothContainerImageTags.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\CommunityToolkit.Aspire.Hosting.Unsloth\CommunityToolkit.Aspire.Hosting.Unsloth.csproj" />
+  </ItemGroup>
+
+</Project>

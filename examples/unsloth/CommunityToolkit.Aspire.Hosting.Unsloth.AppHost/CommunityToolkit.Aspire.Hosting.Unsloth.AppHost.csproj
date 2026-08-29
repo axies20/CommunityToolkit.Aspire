@@ -1,0 +1,13 @@
+<Project Sdk="Aspire.AppHost.Sdk/13.5.0">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <UserSecretsId>9e216947-d228-45a6-bc71-2ce42ed57091</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\src\CommunityToolkit.Aspire.Hosting.Ollama\CommunityToolkit.Aspire.Hosting.Ollama.csproj" IsAspireProjectResource="false" />
+    <ProjectReference Include="..\..\..\src\CommunityToolkit.Aspire.Hosting.Unsloth\CommunityToolkit.Aspire.Hosting.Unsloth.csproj" IsAspireProjectResource="false" />
+  </ItemGroup>
+
+</Project>

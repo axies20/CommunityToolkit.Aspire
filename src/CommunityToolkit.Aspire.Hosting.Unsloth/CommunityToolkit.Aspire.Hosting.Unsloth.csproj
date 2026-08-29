@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AdditionalPackageTags>hosting unsloth ai openai llm</AdditionalPackageTags>
+    <Description>An Aspire hosting integration for running Unsloth Studio and its OpenAI-compatible API.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspire.Hosting" />
+    <PackageReference Include="MessagePack" />
+  </ItemGroup>
+
+</Project>
